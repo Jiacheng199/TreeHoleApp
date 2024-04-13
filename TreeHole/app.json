@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "TreeHole",
-    "slug": "TreeHole",
+    "slug": "treehole",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "af3361ae-c720-4479-9e61-2a8a3d79c46d"
+      }
+    },
+    "owner": "jay_lord"
   }
 }
