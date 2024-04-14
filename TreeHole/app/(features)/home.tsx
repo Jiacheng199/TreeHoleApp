@@ -1,5 +1,5 @@
 import { Text } from 'react-native';
 
-export default function HomnePage() {
+export default function HomePage() {
   return <Text>Home Page</Text>;
 }

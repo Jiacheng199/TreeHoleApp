@@ -13,7 +13,7 @@ export default function App() {
       <Text style={styles.slogan}>Share whatever you want, encrypted and anonymously.</Text>
       <Link href="/login" style={styles.link}>Login</Link>
       <Link href="/register" style={styles.link}>Register</Link>
-      <Link href="/home" style={styles.skip}>Skip</Link>
+      <Link href="/(features)/home" style={styles.skip}>Skip</Link>
     </View>
   );
 }
